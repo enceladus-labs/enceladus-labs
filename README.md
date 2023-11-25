@@ -17,5 +17,4 @@ Donations will be used to fund awards of the program. For professional administr
 - we allow 2/3 of validators (by voting power) to vote to reject our transactions.
 - if an epoch’s validator set decides to sunset this account (burn values and make inaccessible) for any reason, we will oblige.
 
-Admisistered by [@w3sc](https://discord.com/users/651103232155713582) @ <img src="[https://your-image-url.type](https://github.com/enceladus-labs/enceladus-labs/assets/152007567/e37dc469-1e6d-4700-9eb3-a361599ff796)https://github.com/enceladus-labs/enceladus-labs/assets/152007567/e37dc469-1e6d-4700-9eb3-a361599ff796" width="100" height="100">
-
+Admisistered by [@w3sc](https://discord.com/users/651103232155713582) @ <img src="https://github.com/enceladus-labs/enceladus-labs/assets/152007567/b3ce41ed-7d55-45be-8751-7c856efd234d" href="https://w3s0c.xyz" width="100" height="40">
