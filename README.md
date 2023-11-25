@@ -1,5 +1,4 @@
 
-![Enseladus Without Slogan 2400x1800](https://github.com/enceladus-labs/enceladus-labs/assets/152007567/a82c54e9-3db2-41c4-897a-0110a917ec46)
 
 # 0L Moonshot Program
 
