@@ -1,8 +1,8 @@
 # 0L Moonshot Program
 
-Enceladus Labs Inc is a small software development company involved in blockchain software development, including for 0L network. The company has not raised venture capital nor has any investment partners.
+Enceladus Labs Inc is a small software development company involved in blockchain software development, including for [0L network](https://0l.network). The company has not raised venture capital nor has any investment partners.
 
-Inspired by the well-known Xprize awards, we think large and meaningful rewards are necessary to materialize frontier technologies which are ambitious, speculative, and non-obvious. As such, Enceladus Labs has established “Moonshot Projects”. This program sponsors large rewards for teams with extraordinary background in technology, and a plausible path to deplying said technology in society. We are seeking breakthrough use-cases which depend on yet-unrealized innovations in distributed systems and cryptography. Success for “Moonshots” means producing a jump discontinuity for any industry or any human activity, but not necessarily immediately.
+Inspired by the well-known Xprize awards, we think large and meaningful rewards are necessary to materialize frontier technologies which are ambitious, speculative, and non-obvious. As such, Enceladus Labs has established “Moonshot Program”. This program sponsors large rewards for teams with extraordinary background in technology, and a plausible path to deplying said technology in society. We are seeking breakthrough use-cases which depend on yet-unrealized innovations in distributed systems and cryptography. Success for “Moonshots” means producing a jump discontinuity for any industry or any human activity, but not necessarily immediately.
 
 The program principally aims to a) identify opportunities, b) match teams to opportunities, and c) manage an expert-led evaluation process for technical achievements. Financial awards or grants for technical achievements will be contributed from Enceladus Labs proprietary funds.
 
