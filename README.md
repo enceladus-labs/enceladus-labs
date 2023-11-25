@@ -16,3 +16,5 @@ Donations will be used to fund awards of the program. For professional administr
 - funds will only be transferred to an 0L SlowWallet, which releases funds over time.
 - we allow 2/3 of validators (by voting power) to vote to reject our transactions.
 - if an epoch’s validator set decides to sunset this account (burn values and make inaccessible) for any reason, we will oblige.
+
+Admisistered by [@w3sc](https://discord.com/users/651103232155713582) @ [https://github.com/enceladus-labs/enceladus-labs/assets/152007567/1bfe8c22-9827-4ae9-899f-ed8ccb9729f9](https://w3c0c.com)
