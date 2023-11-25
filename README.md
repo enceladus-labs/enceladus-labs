@@ -6,9 +6,9 @@ Inspired by the well-known Xprize awards, we think large and meaningful rewards 
 
 The program principally aims to a) identify opportunities, b) match teams to opportunities, and c) manage an expert-led evaluation process for technical achievements. Financial awards or grants for technical achievements will be contributed from Enceladus Labs proprietary funds.
 
-Donations to LOL for the Moonshot Program are accepted at the 0L account: **2057BCFB0189B7FD0ABA7244BA271661**.
+Donations to Enceladus Labs for the Moonshot Program are accepted at the 0L account: **2057BCFB0189B7FD0ABA7244BA271661**.
 
-Donations will be used to fund awards of the program. For professional administration of the resources of the program LOL will retain an administrative fee up to 5% of the funds awarded to teams.
+Donations will be used to fund awards of the program. For professional administration of the resources of the program Enceladus Labs will retain an administrative fee up to 5% of the funds awarded to teams.
 
 **Enceladus Labs will mark this address as a “CommunityWallet” on chain. By that we mean:**
 
