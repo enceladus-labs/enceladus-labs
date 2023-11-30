@@ -1,6 +1,7 @@
 
 
 # 0L Moonshot Program
+![Enceladus Without Slogan 2400x1800](https://github.com/enceladus-labs/enceladus-labs/assets/152007567/81bdd60b-14c4-4343-8112-f5d0c584add8)
 
 Enceladus Labs Inc is a small software development company involved in blockchain software development, including for [0L network](https://0l.network). The company has not raised venture capital nor has any investment partners.
 
