@@ -20,4 +20,4 @@ Donations will be used to fund awards of the program. For professional administr
 - we allow 2/3 of validators (by voting power) to vote to reject our transactions.
 - if an epoch’s validator set decides to sunset this account (burn values and make inaccessible) for any reason, we will oblige.
 
-administered by <a href="https://w3s0c.com" ><img src="https://github.com/enceladus-labs/enceladus-labs/assets/152007567/d27ced99-edbb-43ac-b9ba-6edbe2f99241"   width="100" > </a>| Contact: [@w3sc](https://discord.com/users/651103232155713582)
+Enceladus Labs is an administration company only, all assets are dealt with using Mechanizm Ventures. Contact: [@w3sc](https://discord.com/users/651103232155713582)
